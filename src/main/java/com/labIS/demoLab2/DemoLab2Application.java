@@ -10,4 +10,7 @@ public class DemoLab2Application {
 		SpringApplication.run(DemoLab2Application.class, args);
 	}
 
+
+	//cod care sa fie conflict
+
 }
